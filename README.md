@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/petramarkovic"><img src="https://api.daily.dev/devcards/v2/hxsH1tYu2m14wFVcaxLKh.png?r=40j&type=default" width="356" alt="Petra Markovic's Dev Card"/></a>
+<a href="https://app.daily.dev/petramarkovic"><img src="https://api.daily.dev/devcards/v2/hxsH1tYu2m14wFVcaxLKh.png?type=default&r=jz6" width="356" alt="Petra Markovic's Dev Card"/></a>
 
 <!--
 **petramarkovic/petramarkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
